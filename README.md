@@ -48,10 +48,7 @@ Focused on creating a clean, insightful, and interactive visualization.
 - 💰 High-value customers contributed majorly to revenue growth  
 
 ### 📸 Dashboard Preview
-![Dashboard](Dashboard_Snapshot.png)
-
-### 📂 Dataset
-Source: Custom Flipkart Sales Dataset (for learning purpose)
+<img width="1920" height="1012" alt="image" src="https://github.com/user-attachments/assets/d70be901-0b62-407e-9403-48843f0570ce" />
 
 
 ### 📂 Dataset
