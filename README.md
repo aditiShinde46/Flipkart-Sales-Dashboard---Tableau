@@ -1,11 +1,5 @@
 # 📊 Flipkart Sales Dashboard (Tableau)
 
-### 🏆 Achievement
-Achievement Entry for **Flipkart Sales Dashboard**
-
-### 📅 Date
-06/02/2025
-
 ### 🎯 Objective
 Designed an interactive sales dashboard using Tableau based on Flipkart sales data.  
 Analyzed product performance, category-wise trends, and customer insights from **1,000+ records**.  
@@ -23,10 +17,8 @@ Focused on creating a clean, insightful, and interactive visualization.
 - 💰 High-value customers contributed majorly to revenue growth  
 
 ### 📸 Dashboard Preview
-# 📊 Sales Dashboard (Tableau)
+<img width="1920" height="1080" alt="Flipkart Sales Visualization" src="https://github.com/user-attachments/assets/078b822e-df60-4a7e-8573-b160cd745008" />
 
-### 🏆 Achievement
-Achievement Entry for **Flipkart Sales Dashboard**
 
 ### 📅 Date
 06/02/2025
