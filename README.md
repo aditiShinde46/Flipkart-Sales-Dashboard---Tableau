@@ -1,4 +1,4 @@
-# 📊 Sales Dashboard (Tableau)
+# 📊 Flipkart Sales Dashboard (Tableau)
 
 ### 🏆 Achievement
 Achievement Entry for **Flipkart Sales Dashboard**
@@ -54,6 +54,4 @@ Focused on creating a clean, insightful, and interactive visualization.
 
 ### 📂 Dataset
 Source: Custom Flipkart Sales Dataset (Kaggle)
-
----
 
